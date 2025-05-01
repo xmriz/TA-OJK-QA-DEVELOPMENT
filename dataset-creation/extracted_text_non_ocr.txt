@@ -1,0 +1,2066 @@
+Tum 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 6 TAHUN 2024 
+TENTANG  
+PEMBIAYAAN TRANSAKSI EFEK OLEH PERUSAHAAN EFEK BAGI NASABAH 
+DAN TRANSAKSI SHORT SELLING OLEH PERUSAHAAN EFEK 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+Menimbang 
+: a. 
+bahwa untuk meningkatkan likuiditas dan pendalaman 
+pasar keuangan melalui pembiayaan transaksi margin 
+dan/atau transaksi short selling, serta untuk penguatan 
+manajemen risiko, perlu dilakukan pembaharuan atas 
+ketentuan terkait pembiayaan transaksi margin dan/atau 
+transaksi short selling sehingga memenuhi kebutuhan 
+pelaku 
+pasar 
+modal 
+dan 
+sejalan 
+dengan 
+praktek 
+internasional; 
+ 
+ 
+b. 
+bahwa pembiayaan transaksi margin dan/atau transaksi 
+short selling yang telah diatur dalam Peraturan Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+55/POJK.04/2020 
+tentang 
+Pembiayaan Transaksi Efek oleh Perusahaan Efek bagi 
+Nasabah dan Transaksi Short Selling oleh Perusahaan Efek 
+belum 
+dapat 
+menampung 
+kebutuhan 
+sebagaimana 
+dimaksud dalam huruf a, sehingga perlu diganti; 
+c.     berdasarkan pertimbangan sebagaimana dimaksud dalam 
+huruf a dan huruf b, perlu menetapkan Peraturan Otoritas 
+Jasa Keuangan tentang Pembiayaan Transaksi Efek oleh 
+Perusahaan Efek bagi Nasabah dan Transaksi Short Selling 
+oleh Perusahaan Efek; 
+ 
+ 
+  
+ 
+Mengingat 
+: 1. 
+Undang-Undang Nomor 8 Tahun 1995 tentang Pasar 
+Modal (Lembaran Negara Republik Indonesia Tahun 1995 
+Nomor 
+64, 
+Tambahan 
+Lembaran 
+Negara 
+Republik 
+Indonesia Nomor 3608) sebagaimana telah diubah dengan 
+Undang-Undang 
+Nomor 
+4 
+Tahun 
+2023 
+tentang 
+Pengembangan 
+dan 
+Penguatan 
+Sektor 
+Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 
+4, Tambahan Lembaran Negara Republik Indonesia Nomor 
+6845); 
+ 
+OTORITAS JASA KEUANGAN  
+REPUBLIK INDONESIA
+
+- 2 - 
+ 
+ 
+ 
+ 
+ 
+2. 
+Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2011 Nomor 111, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5253) sebagaimana telah 
+diubah dengan Undang-Undang Nomor 4 Tahun 2023 
+tentang Pengembangan dan Penguatan Sektor Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 
+4, Tambahan Lembaran Negara Republik Indonesia Nomor 
+6845); 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PEMBIAYAAN TRANSAKSI EFEK OLEH PERUSAHAAN EFEK 
+BAGI NASABAH DAN TRANSAKSI SHORT SELLING OLEH 
+PERUSAHAAN EFEK. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+ 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Perusahaan Efek adalah pihak yang melakukan kegiatan 
+sebagai penjamin emisi efek dan/atau perantara pedagang 
+efek atau manajer investasi.  
+2. 
+Efek adalah surat berharga atau kontrak investasi baik 
+dalam bentuk konvensional dan digital atau bentuk lain 
+sesuai dengan perkembangan teknologi yang memberikan 
+hak kepada pemiliknya untuk secara langsung maupun 
+tidak langsung memperoleh manfaat ekonomis dari 
+penerbit atau dari pihak tertentu berdasarkan perjanjian 
+dan setiap derivatif atas Efek, yang dapat dialihkan 
+dan/atau diperdagangkan di pasar modal.  
+3. 
+Pihak 
+adalah 
+orang 
+perseorangan, 
+badan 
+hukum, 
+perusahaan, usaha bersama, asosiasi, atau kelompok 
+yang terorganisasi.  
+4. 
+Lembaga Kliring dan Penjaminan adalah Pihak yang 
+menyelenggarakan jasa kliring dan/atau penjaminan 
+penyelesaian transaksi Efek yang dilakukan melalui 
+penyelenggara pasar di pasar modal serta jasa lain yang 
+dapat diterapkan untuk mendukung kegiatan antarpasar. 
+5. 
+Transaksi Margin adalah transaksi pembelian Efek untuk 
+kepentingan nasabah yang dibiayai oleh Perusahaan Efek. 
+6. 
+Transaksi Short Selling adalah transaksi penjualan Efek 
+dimana Efek dimaksud tidak dimiliki oleh penjual pada 
+saat transaksi dilaksanakan. 
+7. 
+Jaminan Pembiayaan adalah sejumlah dana dan/atau 
+Efek milik nasabah yang ditahan oleh Perusahaan Efek 
+sebagai jaminan untuk penyelesaian Transaksi Margin 
+atau Transaksi Short Selling. 
+8. 
+Rekening Efek Pembiayaan Transaksi Margin adalah 
+rekening Efek nasabah yang khusus dipergunakan untuk 
+aktivitas Transaksi Margin.
+
+- 3 - 
+ 
+ 
+ 
+9. 
+Rekening Efek Pembiayaan Transaksi Short Selling adalah 
+rekening Efek nasabah yang khusus dipergunakan untuk 
+aktivitas Transaksi Short Selling. 
+10. Jaminan Awal adalah sejumlah dana dan/atau Efek yang 
+wajib disetor nasabah kepada Perusahaan Efek sebagai 
+Jaminan Pembiayaan pada saat pembukaan Rekening 
+Efek Pembiayaan Transaksi Margin atau Rekening Efek 
+Pembiayaan Transaksi Short Selling. 
+11. Permintaan Pemenuhan Jaminan Pembiayaan adalah 
+permintaan Perusahaan Efek kepada nasabah untuk 
+menyerahkan 
+dana 
+dan/atau 
+Efek 
+dalam 
+rangka 
+memenuhi batas maksimal nilai pembiayaan yang 
+diberikan oleh Perusahaan Efek kepada nasabah atau 
+batas minimal nilai Jaminan Pembiayaan yang wajib 
+dipenuhi oleh nasabah. 
+12. Perjanjian 
+Pembiayaan 
+adalah 
+perjanjian 
+antara 
+Perusahaan Efek dengan nasabah yang memuat hak dan 
+kewajiban 
+terkait 
+dengan 
+pembiayaan 
+penyelesaian 
+transaksi Efek nasabah oleh Perusahaan Efek yang dapat 
+berupa pembiayaan dana dan/atau pembiayaan Efek. 
+13. Posisi Long adalah saldo Efek dalam akun tertentu di buku 
+pembantu Efek yang menunjukkan sejumlah Efek yang 
+dimiliki oleh Perusahaan Efek atau sejumlah Efek yang 
+wajib diserahkan oleh Perusahaan Efek kepada nasabah. 
+14. Posisi Short adalah saldo Efek dalam akun tertentu di 
+buku pembantu Efek yang menunjukkan sejumlah Efek 
+yang dijual oleh Perusahaan Efek untuk kepentingannya 
+sendiri dan/atau kepentingan nasabah, tetapi pada saat 
+dijual Efek dimaksud belum dimiliki oleh Perusahaan Efek 
+dan/atau belum diserahkan oleh nasabah kepada 
+Perusahaan Efek. 
+15. Saldo 
+Debit 
+adalah 
+saldo 
+dalam 
+Rekening 
+Efek 
+Pembiayaan Transaksi Margin atau Rekening Efek 
+Pembiayaan Transaksi Short Selling yang menunjukkan 
+jumlah uang yang wajib dibayar oleh nasabah kepada 
+Perusahaan Efek. 
+16. Bursa Efek adalah penyelenggara pasar di pasar modal 
+untuk transaksi bursa.  
+17. Anggota Bursa Efek adalah: 
+a. 
+perantara pedagang efek yang telah memperoleh izin 
+usaha dari Otoritas Jasa Keuangan; dan 
+b. 
+pihak lain yang memperoleh persetujuan dari 
+Otoritas Jasa Keuangan, 
+yang mempunyai hak untuk mempergunakan sistem 
+dan/atau sarana Bursa Efek sesuai dengan peraturan 
+Bursa Efek. 
+18. Lembaga Pendanaan Efek adalah Pihak yang melakukan 
+kegiatan usaha pendanaan transaksi Efek. 
+19. Modal Kerja Bersih Disesuaikan adalah jumlah aset lancar 
+Perusahaan Efek dikurangi dengan seluruh liabilitas 
+Perusahaan Efek dan ranking liabilities, ditambah dengan 
+utang sub ordinasi, serta dilakukan penyesuaian lainnya.
+
+- 4 - 
+ 
+ 
+20. Hari Bursa adalah hari diselenggarakannya perdagangan 
+Efek di Bursa Efek, yaitu hari senin sampai dengan hari 
+jumat, kecuali hari tersebut merupakan hari libur 
+nasional atau dinyatakan sebagai hari libur bursa oleh 
+Bursa Efek. 
+21. Haircut adalah faktor pengurang nilai pasar wajar Efek 
+sesuai dengan risikonya sebesar persentase tertentu dari 
+nilai pasar wajar Efek. 
+ 
+BAB II 
+PEMBIAYAAN PENYELESAIAN TRANSAKSI EFEK OLEH 
+PERUSAHAAN EFEK 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 2 
+(1) 
+Pembiayaan dana dan/atau Efek untuk penyelesaian 
+transaksi Efek oleh Perusahaan Efek dilarang diberikan 
+selain untuk Transaksi Margin dan/atau Transaksi Short 
+Selling.  
+(2) 
+Perusahaan 
+Efek 
+dalam 
+memberikan 
+pembiayaan 
+Transaksi Margin dilarang mengalihkan piutang nasabah 
+dari rekening Efek reguler ke Rekening Efek Pembiayaan 
+Transaksi Margin. 
+ 
+Bagian Kedua 
+Persyaratan Pembiayaan Transaksi Margin dan Transaksi 
+Short Selling 
+ 
+Pasal 3 
+Perusahaan Efek yang melakukan pembiayaan Transaksi 
+Margin dan/atau Transaksi Short Selling wajib terlebih dahulu 
+memenuhi ketentuan: 
+a. 
+memiliki izin usaha dari Otoritas Jasa Keuangan untuk 
+melakukan kegiatan sebagai perantara pedagang Efek 
+yang mengadministrasikan rekening Efek nasabah; 
+b. 
+memiliki Modal Kerja Bersih Disesuaikan berdasarkan 
+persyaratan sebagai Anggota Bursa Efek yang memberikan 
+pembiayaan 
+dalam rangka Transaksi Margin 
+yang 
+ditetapkan dalam peraturan Bursa Efek; dan 
+c. 
+memiliki persetujuan dari Bursa Efek untuk melakukan 
+Transaksi Margin dan/atau Transaksi Short Selling. 
+ 
+Pasal 4 
+(1) 
+Perusahaan Efek yang memberikan pembiayaan dana 
+melalui Transaksi Margin wajib mempunyai sumber 
+pembiayaan yang cukup untuk membiayai penyelesaian 
+transaksi pembelian Efek. 
+(2) 
+Pembiayaan dana melalui Transaksi Margin sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1), 
+Perusahaan 
+Efek 
+dapat 
+menggunakan sumber: 
+a. 
+ekuitas; dan/atau 
+b. 
+pendanaan dari Pihak lain;
+
+- 5 - 
+ 
+ 
+(3) 
+Perusahaan Efek dilarang menggunakan dana nasabah 
+sebagai sumber pembiayaan penyelesaian transaksi 
+pembelian Efek atas nasabah lainnya. 
+ 
+Pasal 5 
+Perusahaan Efek dalam memberikan pembiayaan Transaksi 
+Margin dan/atau pembiayaan Transaksi Short Selling wajib 
+menetapkan tingkat Haircut atas Efek yang dapat digunakan 
+sebagai Jaminan Pembiayaan selain Efek yang ditransaksikan 
+dengan pembiayaan. 
+ 
+Pasal 6 
+Dalam hal Perusahaan Efek memberikan pembiayaan Efek 
+melalui Transaksi Short Selling, Perusahaan Efek wajib 
+memiliki perikatan dengan Lembaga Kliring dan Penjaminan, 
+Lembaga Pendanaan Efek, Perusahaan Efek lain, bank 
+kustodian, dan/atau Pihak lain yang disetujui Otoritas Jasa 
+Keuangan untuk meminjam Efek yang diperlukan bagi 
+penyelesaian Transaksi Short Selling. 
+ 
+Pasal 7 
+Perusahaan Efek dapat melakukan pengambilalihan kewajiban 
+penyelesaian Transaksi Margin nasabah dari Perusahaan Efek 
+lain, dengan memenuhi ketentuan prosedur pengambilalihan 
+yang ditetapkan dalam peraturan Bursa Efek. 
+ 
+Pasal 8 
+Dalam hal Anggota Bursa Efek dicabut persetujuannya sebagai 
+Anggota Bursa Efek yang dapat memberikan pembiayaan 
+Transaksi Margin dan/atau Transaksi Short Selling oleh Bursa 
+Efek, 
+Anggota 
+Bursa 
+Efek 
+tersebut 
+wajib 
+melakukan 
+penyelesaian Transaksi Margin dan/atau Transaksi Short 
+Selling yang masih berjalan dengan memenuhi ketentuan yang 
+ditetapkan dalam peraturan Bursa Efek. 
+ 
+BAB III 
+KEWAJIBAN BURSA EFEK TERKAIT PERUSAHAAN EFEK 
+YANG MEMBERIKAN PEMBIAYAAN PENYELESAIAN 
+TRANSAKSI EFEK 
+ 
+Pasal 9 
+Dalam memberikan persetujuan sebagaimana dimaksud dalam 
+Pasal 3 huruf c, Bursa Efek wajib memeriksa pemenuhan 
+persyaratan oleh Perusahaan Efek minimal memuat: 
+a. 
+kecukupan Modal Kerja Bersih Disesuaikan; 
+b. 
+kecukupan sumber pembiayaan; 
+c. 
+memiliki perikatan sebagaimana dimaksud dalam Pasal 6 
+dalam hal Perusahaan Efek memberikan pembiayaan Efek 
+melalui Transaksi Short Selling; 
+d. 
+memiliki pedoman dan prosedur manajemen risiko yang 
+memadai secara tertulis mengenai Transaksi Margin 
+dan/atau Transaksi Short Selling minimal memuat: 
+1. 
+Efek yang dapat dibiayai dan digunakan sebagai 
+jaminan;
+
+- 6 - 
+ 
+ 
+2. 
+nilai jaminan yang harus dipelihara untuk setiap 
+pembiayaan yang diberikan; 
+3. 
+Permintaan 
+Pemenuhan 
+Jaminan 
+Pembiayaan 
+kepada nasabah dalam hal nilai jaminan mengalami 
+penurunan; dan 
+4. 
+mekanisme penyelesaian eksekusi jaminan nasabah 
+dengan penjualan dan/atau pembelian Efek atau 
+melakukan tindakan lain dalam hal nasabah yang 
+menerima pembiayaan tidak memenuhi kewajiban 
+atas 
+Permintaan 
+Pemenuhan 
+Jaminan 
+dari 
+Perusahaan Efek; 
+e. 
+memiliki sistem yang memadai untuk melaksanakan 
+kegiatan 
+pembiayaan 
+Transaksi 
+Margin 
+dan/atau 
+Transaksi Short Selling; dan 
+f. 
+memiliki 
+Perjanjian 
+Pembiayaan 
+Transaksi 
+Margin 
+dan/atau Transaksi Short Selling. 
+ 
+Pasal 10 
+(1) 
+Bursa 
+Efek 
+wajib 
+melakukan 
+pemeriksaan 
+atas 
+persyaratan sebagaimana dimaksud dalam Pasal 9 secara 
+berkala berdasarkan penilaian risiko terhadap Perusahaan 
+Efek yang telah memperoleh persetujuan dan memberikan 
+pembiayaan Transaksi Margin dan/atau Transaksi Short 
+Selling. 
+(2) 
+Bursa Efek wajib mengatur periode pemeriksaan secara 
+berkala berdasarkan penilaian risiko terhadap Perusahaan 
+Efek yang sedang memberikan pembiayaan Transaksi 
+Margin dan/atau Transaksi Short Selling. 
+ 
+BAB IV 
+PERSYARATAN NASABAH YANG DAPAT MENERIMA 
+PEMBIAYAAN PENYELESAIAN TRANSAKSI EFEK 
+ 
+Pasal 11 
+Dalam memberikan pembiayaan penyelesaian Transaksi 
+Margin atau Transaksi Short Selling kepada nasabah, 
+Perusahaan Efek wajib mempertimbangkan persyaratan yang 
+harus dipenuhi oleh nasabah paling sedikit: 
+a. 
+memiliki riwayat transaksi yang lancar yang dibuktikan 
+dengan: 
+1. 
+memiliki rekening Efek reguler aktif; dan 
+2. 
+kualitas pembiayaan transaksi Efek atas nama 
+nasabah yang bersangkutan pada sistem layanan 
+informasi 
+keuangan 
+Otoritas 
+Jasa 
+Keuangan 
+dikategorikan 
+lancar, 
+apabila 
+sudah 
+terdapat 
+pembiayaan; 
+b. 
+telah membuka Rekening Efek Pembiayaan Transaksi 
+Margin untuk nasabah yang akan melakukan Transaksi 
+Margin atau Rekening Efek Pembiayaan Transaksi Short 
+Selling untuk nasabah yang akan melakukan Transaksi 
+Short 
+Selling 
+pada 
+Perusahaan 
+Efek 
+berdasarkan 
+Perjanjian Pembiayaan; dan 
+c. 
+telah menyetorkan Jaminan Awal untuk setiap Rekening 
+Efek Pembiayaan Transaksi Margin dan Rekening Efek 
+Pembiayaan Transaksi Short Selling.
+
+- 7 - 
+ 
+ 
+BAB V 
+POKOK PERJANJIAN PEMBIAYAAN TRANSAKSI EFEK 
+NASABAH 
+ 
+Pasal 12 
+Perjanjian Pembiayaan Transaksi Margin dan/atau Transaksi 
+Short Selling sebagaimana dimaksud dalam Pasal 9 huruf f 
+wajib memuat klausul paling sedikit: 
+a. 
+tingginya tingkat risiko investasi nasabah; 
+b. 
+kebijakan penilaian Jaminan Pembiayaan berupa Efek, 
+meliputi jenis Efek yang dapat diterima sebagai Jaminan 
+Pembiayaan, 
+penetapan 
+nilai 
+pasar 
+wajarnya, 
+dan 
+penetapan Haircut; 
+c. 
+kewajiban 
+nasabah 
+untuk 
+setiap 
+saat 
+memenuhi 
+permintaan 
+Perusahaan 
+Efek 
+sehubungan 
+dengan 
+kegiatan pembiayaan transaksi Efek nasabah yang 
+dimaksud; 
+d. 
+kewajiban 
+Perusahaan 
+Efek 
+untuk 
+melakukan 
+pemberitahuan Permintaan Pemenuhan Jaminan kepada 
+nasabah; 
+e. 
+hak Perusahaan Efek, dalam hal nasabah tidak memenuhi 
+Permintaan Pemenuhan Jaminan, untuk setiap saat tanpa 
+memberikan alasan atau pemberitahuan atau memperoleh 
+persetujuan terlebih dahulu untuk menjual atau membeli 
+Efek atau tindakan lain yang disepakati dengan nasabah 
+guna memenuhi: 
+1. 
+persyaratan 
+nilai 
+Jaminan 
+Pembiayaan 
+yang 
+ditentukan dalam Perjanjian Pembiayaan; dan 
+2. 
+kewajiban nasabah dalam penyelesaian transaksi 
+Efek; 
+f. 
+nasabah Perusahaan Efek tidak dapat memilih Efek yang 
+akan 
+dilikuidasi 
+atau 
+dijual 
+untuk 
+memenuhi 
+kewajibannya; 
+g. 
+batasan maksimal Efek nasabah yang menjadi Jaminan 
+Pembiayaan yang dapat dijual atau dibeli oleh Perusahaan 
+Efek dalam rangka Permintaan Pemenuhan Jaminan, 
+penyelesaian Transaksi Margin, dan/atau Transaksi Short 
+Selling; 
+h. 
+hal yang menyebabkan Perusahaan Efek dapat setiap saat 
+menutup Rekening Efek Pembiayaan Transaksi Margin 
+atau Rekening Efek Pembiayaan Transaksi Short Selling; 
+i. 
+ketentuan pembiayaan yang meliputi perhitungan tingkat 
+bunga pembiayaan, dan metode perhitungan bunga 
+pembiayaan; 
+j. 
+ketentuan mengenai perjanjian pinjam-meminjam Efek 
+antara nasabah dengan Perusahaan Efek dalam Transaksi 
+Short Selling nasabah; 
+k. 
+jangka waktu pembiayaan Transaksi Margin dan/atau 
+Transaksi Short Selling paling lama 12 (dua belas) bulan 
+dan dapat diperpanjang kembali berdasarkan hasil 
+evaluasi oleh Perusahaan Efek; 
+l. 
+dalam hal Perusahaan Efek menggunakan pendanaan dari 
+Lembaga Pendanaan Efek untuk memberikan pembiayaan 
+Transaksi Margin bagi nasabah tertentu, Perusahaan Efek 
+wajib:
+
+- 8 - 
+ 
+ 
+1. 
+memindahkan Efek jaminan nasabah tersebut dari 
+sub rekening nasabah dalam pengadministrasian 
+Perusahaan Efek ke sub rekening nasabah dalam 
+pengadministrasian Lembaga Pendanaan Efek; dan 
+2. 
+mensyaratkan adanya pemberian kuasa dari nasabah 
+kepada Perusahaan Efek terkait penggunaan Efek 
+jaminan nasabah oleh Lembaga Pendanaan Efek; 
+m. 
+pengambilalihan 
+kewajiban 
+penyelesaian 
+Transaksi 
+Margin nasabah dari Perusahaan Efek lain; 
+n. 
+penyelesaian sengketa; dan 
+o. 
+keadaan kahar. 
+ 
+BAB VI 
+PERSYARATAN EFEK YANG DAPAT DITRANSAKSIKAN 
+DALAM PEMBIAYAAN TRANSAKSI EFEK NASABAH 
+ 
+Pasal 13 
+Perusahaan Efek dilarang melakukan Transaksi Margin 
+dan/atau Transaksi Short Selling atas Efek yang tidak tercatat 
+di Bursa Efek.  
+ 
+Pasal 14 
+(1) 
+Persyaratan Efek yang dapat: 
+a. 
+ditransaksikan dengan pembiayaan penyelesaian 
+transaksi Efek; dan 
+b. 
+digunakan sebagai Jaminan Pembiayaan, 
+ditetapkan oleh Bursa Efek dalam peraturan Bursa Efek. 
+(2) 
+Dalam 
+menetapkan 
+persyaratan 
+Efek 
+sebagaimana 
+dimaksud pada ayat (1), untuk Efek bersifat ekuitas, 
+Bursa Efek wajib mempertimbangkan paling sedikit: 
+a. 
+nilai minimal rata-rata transaksi harian dalam 
+periode tertentu; 
+b. 
+jumlah minimal Pihak yang memiliki Efek dalam 
+periode tertentu; 
+c. 
+faktor fundamental Efek; dan 
+d. 
+kriteria khusus untuk Efek yang dapat dilakukan 
+Transaksi Short Selling, termasuk batasan persentase 
+jumlah maksimal Efek dari total Efek yang beredar 
+yang dapat ditransaksikan. 
+(3) 
+Bursa Efek wajib mengatur lebih lanjut besaran Haircut 
+atas Efek yang dapat digunakan sebagai Jaminan 
+Pembiayaan sebagaimana dimaksud pada ayat (1). 
+ 
+Pasal 15 
+(1) 
+Bursa Efek wajib mengumumkan Efek yang memenuhi 
+atau tidak memenuhi syarat sebagaimana dimaksud 
+dalam Pasal 14 ayat (1) kepada publik dan dilaporkan 
+kepada Otoritas Jasa Keuangan paling lambat 2 (dua) Hari 
+Bursa sebelum Hari Bursa terakhir setiap bulannya. 
+(2) 
+Dalam hal terdapat informasi material, Bursa Efek wajib 
+mereviu pemenuhan persyaratan Efek yang memenuhi 
+syarat sebagaimana dimaksud dalam Pasal 14 ayat (1).
+
+- 9 - 
+ 
+ 
+(3) 
+Bursa Efek wajib mengumumkan kepada publik dan 
+melaporkan kepada Otoritas Jasa Keuangan hasil reviu 
+sebagaimana dimaksud pada ayat (2) pada hari yang 
+sama. 
+(4) 
+Bursa Efek wajib menyediakan data Transaksi Margin 
+dan/atau Transaksi Short Selling kepada publik. 
+ 
+Pasal 16 
+Perusahaan Efek wajib melakukan tindak lanjut dalam hal Efek 
+tidak lagi memenuhi persyaratan yang ditetapkan Bursa Efek 
+sebagai Efek yang dapat ditransaksikan dengan pembiayaan 
+penyelesaian transaksi Efek dan/atau digunakan sebagai 
+Jaminan Pembiayaan dengan ketentuan: 
+a. 
+dalam hal Efek tersebut dikeluarkan dari daftar Efek 
+margin sehingga mengakibatkan rasio pembiayaan margin 
+nasabah mencapai rasio Permintaan Pemenuhan Jaminan 
+dan/atau rasio kewajiban segera menjual Efek, maka 
+Perusahaan Efek wajib: 
+1. 
+melakukan Permintaan Pemenuhan Jaminan kepada 
+nasabah dan/atau melakukan penjualan Efek sesuai 
+dengan Peraturan Otoritas Jasa Keuangan ini; atau 
+2. 
+menyelesaikan kelebihan pembiayaan di atas rasio 
+Permintaan Pemenuhan Jaminan transaksi nasabah 
+atas Efek margin yang sudah berjalan paling lambat 
+5 (lima) Hari Bursa sejak Efek tersebut dikeluarkan; 
+b. 
+dalam hal Efek tersebut dikeluarkan dari daftar Efek short 
+selling, Perusahaan Efek wajib menyelesaikan pembiayaan 
+atas Efek tersebut yang sudah berjalan paling lambat 5 
+(lima) Hari Bursa sejak Efek tersebut dikeluarkan atau 
+tidak lagi memenuhi persyaratan berdasarkan Perjanjian 
+Pembiayaan; dan 
+c. 
+dalam hal Efek tersebut dikeluarkan dari daftar Efek 
+jaminan sehingga mengakibatkan rasio pembiayaan 
+Transaksi 
+Short 
+Selling 
+nasabah 
+mencapai 
+rasio 
+Permintaan Pemenuhan Jaminan atau rasio kewajiban 
+segera membeli Efek, Perusahaan Efek wajib: 
+1. 
+melakukan Permintaan Pemenuhan Jaminan kepada 
+nasabah dan/atau melakukan pembelian Efek sesuai 
+dengan Peraturan Otoritas Jasa Keuangan ini; atau 
+2. 
+menyelesaikan kelebihan pembiayaan di atas rasio 
+Permintaan Pemenuhan Jaminan transaksi nasabah 
+atas Efek Transaksi Short Selling yang sudah berjalan 
+paling lambat 5 (lima) Hari Bursa sejak Efek tersebut 
+dikeluarkan. 
+ 
+Pasal 17 
+(1) 
+Dalam hal dana atau Efek Jaminan Pembiayaan diblokir 
+dan/atau disita oleh penegak hukum, Perusahaan Efek 
+wajib mengeluarkan dana atau Efek Jaminan Pembiayaan 
+yang 
+diblokir 
+dan/atau 
+disita 
+dari 
+perhitungan 
+pembiayaan selama belum dilakukan pembukaan blokir 
+atau pengembalian dana atau Efek yang disita. 
+(2) 
+Dalam 
+hal 
+Efek 
+Jaminan 
+Pembiayaan 
+dihentikan 
+sementara perdagangannya oleh Bursa Efek selama 3 
+(tiga) Hari Bursa berturut-turut berdasarkan perintah
+
+- 10 - 
+ 
+ 
+Otoritas Jasa Keuangan ataupun pengawasan Bursa Efek, 
+Perusahaan Efek wajib memberikan Haircut 100% (seratus 
+persen) terhadap Efek Jaminan Pembiayaan tersebut pada 
+Hari Bursa ke-4 (keempat) sejak penghentian sementara 
+perdagangan pertama kali, selama belum dilakukan 
+pencabutan penghentian sementara perdagangan. 
+(3) 
+Dalam hal Efek Jaminan Pembiayaan dihapuskan 
+pencatatannya dari Bursa Efek, Perusahaan Efek wajib 
+memberikan Haircut 100% (seratus persen) terhadap Efek 
+Jaminan Pembiayaan tersebut pada Hari Bursa setelah 
+dilakukannya penghapusan pencatatan. 
+(4) 
+Apabila 
+Efek 
+Jaminan 
+Pembiayaan 
+sebagaimana 
+dimaksud pada ayat (1), ayat (2), dan ayat (3) 
+menyebabkan rasio pembiayaan nasabah mencapai rasio 
+Permintaan Pemenuhan Jaminan, Perusahaan Efek wajib: 
+a. 
+melakukan Permintaan Pemenuhan Jaminan kepada 
+nasabah dan/atau melakukan penjualan Efek sesuai 
+dengan Peraturan Otoritas Jasa Keuangan ini; atau 
+b. 
+menyelesaikan kelebihan pembiayaan di atas rasio 
+Permintaan Pemenuhan Jaminan transaksi nasabah 
+atas Efek Transaksi Margin dan/atau Efek Transaksi 
+Short Selling yang sudah berjalan paling lambat 5 
+(lima) Hari Bursa sejak Efek dikeluarkan. 
+ 
+BAB VII 
+MEKANISME PEMBIAYAAN TRANSAKSI EFEK NASABAH 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 18 
+Sebelum melakukan pembiayaan atau menerima pengalihan 
+pembiayaan 
+penyelesaian 
+Transaksi 
+Margin 
+dan/atau 
+Transaksi Short Selling, Perusahaan Efek wajib memastikan 
+hal:  
+a. 
+nasabah telah memenuhi persyaratan sebagaimana 
+dimaksud dalam Pasal 11; dan 
+b. 
+Perusahaan 
+Efek 
+telah 
+memenuhi 
+persyaratan 
+sebagaimana dimaksud dalam Pasal 4 dan Pasal 6. 
+ 
+Pasal 19 
+Nilai Jaminan Pembiayaan atas kewajiban nasabah dalam 
+Rekening Efek Pembiayaan Transaksi Margin atau Rekening 
+Efek Pembiayaan Transaksi Short Selling meliputi: 
+a. 
+sejumlah dana yang ditempatkan nasabah di Perusahaan 
+Efek sebagai jaminan dalam Rekening Efek Pembiayaan 
+Transaksi Margin atau Rekening Efek Pembiayaan 
+Transaksi Short Selling; dan 
+b. 
+nilai pasar wajar Efek pada Posisi Long sebagai jaminan 
+dalam Rekening Efek Pembiayaan Transaksi Margin atau 
+Rekening Efek Pembiayaan Transaksi Short Selling pada 
+buku pembantu Efek setelah memperhitungkan Haircut.
+
+- 11 - 
+ 
+ 
+Pasal 20 
+Perusahaan Efek wajib melakukan pencatatan Transaksi 
+Margin dan Transaksi Short Selling sesuai dengan standar 
+akuntansi keuangan. 
+ 
+Pasal 21 
+Perusahaan Efek dilarang memberikan pembiayaan Transaksi 
+Margin dan/atau Transaksi Short Selling kepada nasabah 
+Perusahaan Efek yang merupakan komisaris, direktur, 
+pemegang saham utama, pemegang saham pengendali, atau 
+pegawai Perusahaan Efek dimaksud, beserta afiliasinya. 
+ 
+Pasal 22 
+(1) 
+Perusahaan Efek wajib memenuhi ketentuan batas 
+maksimum pemberian pembiayaan Transaksi Margin 
+dan/atau Transaksi Short Selling kepada 1 (satu) nasabah 
+atau beberapa nasabah yang saling memiliki hubungan 
+afiliasi paling tinggi 10% (sepuluh persen) dari posisi nilai 
+Modal Kerja Bersih Disesuaikan pada 2 (dua) Hari Bursa 
+sebelum 
+pemberian 
+pembiayaan 
+Transaksi 
+Margin 
+dan/atau Transaksi Short Selling. 
+(2) 
+Dalam hal pemberian pembiayaan Transaksi Margin 
+dan/atau Transaksi 
+Short Selling 
+kepada nasabah 
+mencapai batas maksimal sebagaimana dimaksud pada 
+ayat (1), Perusahaan Efek tidak dapat memberikan 
+pembiayaan Transaksi Margin dan/atau Transaksi Short 
+Selling baru terhadap nasabah. 
+ 
+Bagian Kedua 
+Transaksi Margin 
+ 
+Pasal 23 
+Sebelum menyetujui untuk membiayai penyelesaian Transaksi 
+Margin, Perusahaan Efek wajib memastikan telah tersedia 
+sejumlah dana dan/atau Efek di Rekening Efek Pembiayaan 
+Transaksi Margin sebagai Jaminan Awal. 
+ 
+Pasal 24 
+(1) 
+Perusahaan Efek wajib mencatat nilai pembiayaan dana 
+atas Transaksi Margin sebesar jumlah piutang atas 
+Transaksi Margin yang diberikan Perusahaan Efek kepada 
+nasabah Perusahaan Efek. 
+(2) 
+Perusahaan Efek wajib mencatat nilai pembiayaan dana 
+atas Transaksi Margin sebagai Saldo Debit dalam 
+Rekening Efek Pembiayaan Transaksi Margin. 
+ 
+Pasal 25 
+(1) 
+Nilai Jaminan Awal pada saat transaksi pertama yang 
+disampaikan ke Bursa Efek menggunakan Rekening Efek 
+Pembiayaan Transaksi Margin paling sedikit: 
+a. 
+50% (lima puluh persen) dari nilai pembelian Efek; 
+atau 
+b. 
+Rp 50.000.000,00 (lima puluh juta rupiah), 
+digunakan yang lebih tinggi.
+
+- 12 - 
+ 
+ 
+(2) 
+Penilaian 
+Jaminan 
+Awal 
+berupa 
+Efek 
+wajib 
+memperhitungkan Haircut. 
+ 
+Pasal 26 
+(1) 
+Nilai pembiayaan dana atas Transaksi Margin yang dapat 
+diberikan oleh Perusahaan Efek kepada nasabah paling 
+banyak 65 % (enam puluh lima persen) dari nilai Jaminan 
+Pembiayaan. 
+(2) 
+Penilaian Jaminan Pembiayaan berupa Efek wajib 
+memperhitungkan Haircut. 
+ 
+Pasal 27 
+(1) 
+Jika nilai Jaminan Pembiayaan mengalami penurunan 
+sehingga total nilai pembiayaan sebagaimana dimaksud 
+dalam Pasal 26 melebihi 65% (enam puluh lima persen) 
+dari nilai Jaminan Pembiayaan, Perusahaan Efek wajib 
+melakukan Permintaan Pemenuhan Jaminan kepada 
+nasabah Perusahaan Efek. 
+(2) 
+Nasabah sebagaimana dimaksud pada ayat (1) wajib 
+memenuhi Permintaan Pemenuhan Jaminan, sehingga 
+nilai pembiayaan tidak melebihi 65% (enam puluh lima 
+persen) dari nilai Jaminan Pembiayaan sebagaimana 
+dimaksud dalam Pasal 26. 
+ 
+Pasal 28 
+Apabila nasabah dalam jangka waktu paling lambat 3 (tiga) Hari 
+Bursa tidak memenuhi Permintaan Pemenuhan Jaminan 
+sebagaimana dimaksud dalam Pasal 27, Perusahaan Efek pada 
+Hari Bursa ke-4 (keempat) wajib segera menjual Efek dalam 
+Jaminan Pembiayaan yang dibuktikan dengan melakukan 
+penawaran jual sehingga nilai pembiayaan tidak melebihi 65% 
+(enam puluh lima persen) dari nilai Jaminan Pembiayaan. 
+ 
+Pasal 29 
+Jika nilai pembiayaan telah mencapai 80% (delapan puluh 
+persen) dari nilai Jaminan Pembiayaan, Perusahaan Efek baik 
+dengan ataupun tanpa pemberitahuan kepada nasabah 
+Perusahaan Efek wajib segera menjual Efek dalam Jaminan 
+Pembiayaan yang dibuktikan dengan melakukan penawaran 
+jual sehingga nilai pembiayaan tidak melebihi 65% (enam puluh 
+lima persen) dari nilai Jaminan Pembiayaan. 
+ 
+Pasal 30 
+Perusahaan Efek dapat menetapkan mekanisme pembiayaan 
+dan rasio maksimal pembiayaan untuk melakukan Permintaan 
+Pemenuhan Jaminan kepada nasabah dan/atau penjualan 
+Efek nasabah lebih ketat daripada mekanisme pembiayaan dan 
+rasio maksimal pembiayaan sebagaimana dimaksud dalam 
+Pasal 19, Pasal 22, Pasal 25, Pasal 26, Pasal 27 dan Pasal 29.
+
+- 13 - 
+ 
+ 
+Pasal 31 
+Perusahaan Efek wajib menyampaikan konfirmasi secara 
+tertulis kepada nasabah Perusahaan Efek atas transaksi 
+penjualan sebagaimana dimaksud dalam Pasal 28 dan Pasal 
+29, yang dibedakan dengan konfirmasi tertulis atas transaksi 
+berdasarkan pesanan nasabah pada hari yang sama dengan 
+penjualan Efek nasabah oleh Perusahaan Efek sebagaimana 
+dimaksud dalam Pasal 28 dan Pasal 29. 
+ 
+Bagian Ketiga 
+Transaksi Short Selling 
+ 
+Pasal 32 
+Sebelum menyetujui untuk membiayai penyelesaian Transaksi 
+Short Selling kepada nasabah, Perusahaan Efek wajib: 
+a. 
+memastikan telah tersedia sejumlah dana dan/atau Efek 
+di Rekening Efek Pembiayaan Transaksi Short Selling 
+sebagai Jaminan Awal; 
+b. 
+mempertimbangkan 
+ketersediaan 
+Efek 
+pada 
+saat 
+penyelesaian Transaksi Short Selling paling sedikit: 
+1. 
+memiliki Efek lain yang dapat dikonversi atau ditukar 
+menjadi Efek yang digunakan untuk penyelesaian 
+Transaksi Short Selling; atau 
+2. 
+telah melaksanakan hak atas opsi atau waran untuk 
+memperoleh 
+Efek 
+yang 
+digunakan 
+untuk 
+penyelesaian Transaksi Short Selling; 
+c. 
+memastikan bahwa nasabah telah menandatangani 
+perjanjian pinjam-meminjam Efek dengan Perusahaan 
+Efek; dan 
+d. 
+memastikan bahwa nasabah telah memahami hak dan 
+kewajiban berkenaan dengan Transaksi Short Selling 
+tersebut. 
+ 
+Pasal 33 
+Nilai pembiayaan Efek atas Transaksi Short Selling sebesar nilai 
+pasar wajar Efek yang ditransaksikan secara short selling oleh 
+nasabah yang dibiayai oleh Perusahaan Efek dan dicatat pada 
+saldo Posisi Short Rekening Efek Pembiayaan Transaksi Short 
+Selling di buku pembantu Efek. 
+ 
+Pasal 34 
+(1) 
+Nilai Jaminan Awal pada saat transaksi pertama yang 
+disampaikan ke Bursa Efek menggunakan Rekening Efek 
+Pembiayaan Transaksi Short Selling paling sedikit: 
+a. 
+50% (lima puluh persen) dari nilai Transaksi Short 
+Selling; atau 
+b. 
+Rp50.000.000,- (lima puluh juta rupiah), 
+digunakan yang lebih tinggi. 
+(2) 
+Penilaian 
+Jaminan 
+Awal 
+berupa 
+Efek 
+wajib 
+memperhitungkan Haircut.
+
+- 14 - 
+ 
+ 
+Pasal 35 
+(1) 
+Nilai Jaminan Pembiayaan paling sedikit 150% (seratus 
+lima puluh persen) dari nilai Transaksi Short Selling pada 
+saat Transaksi Short Selling pertama terjadi dengan 
+ketentuan Jaminan Pembiayaan dimaksud paling sedikit 
+terdiri atas Jaminan Awal dan dana yang diterima dari 
+penjualan Efek melalui Transaksi Short Selling dimaksud. 
+(2) 
+Penilaian Jaminan Pembiayaan berupa Efek wajib 
+memperhitungkan Haircut. 
+ 
+Pasal 36 
+Nilai Jaminan Pembiayaan atas Transaksi Short Selling yang 
+wajib dipelihara nasabah paling sedikit 135% (seratus tiga 
+puluh lima persen) dari nilai pasar wajar Efek pada Posisi Short.  
+ 
+Pasal 37 
+(1) 
+Jika nilai Jaminan Pembiayaan mengalami penurunan 
+dan/atau nilai pasar wajar Efek dalam Posisi Short 
+mengalami kenaikan sehingga nilai Jaminan Pembiayaan 
+sebagaimana dimaksud dalam Pasal 36 kurang dari 135% 
+(seratus tiga puluh lima persen) dari nilai pasar wajar Efek 
+dalam Posisi Short, Perusahaan Efek wajib melakukan 
+Permintaan 
+Pemenuhan 
+Jaminan 
+kepada 
+nasabah 
+Perusahaan Efek. 
+(2) 
+Nasabah sebagaimana dimaksud pada ayat (1) wajib 
+memenuhi Permintaan Pemenuhan Jaminan, sehingga 
+nilai Jaminan Pembiayaan tidak kurang dari 135% 
+(seratus tiga puluh lima persen) dari nilai pasar wajar Efek 
+dalam Posisi Short sebagaimana dimaksud dalam Pasal 36. 
+ 
+Pasal 38 
+Apabila nasabah tidak memenuhi Permintaan Pemenuhan 
+Jaminan sebagaimana dimaksud dalam Pasal 37 dalam jangka 
+waktu paling lambat 3 (tiga) Hari Bursa, Perusahaan Efek pada 
+Hari Bursa ke-4 (keempat) wajib segera membeli Efek yang 
+dijual melalui Transaksi Short Selling yang dibuktikan dengan 
+melakukan penawaran beli sehingga nilai Jaminan Pembiayaan 
+tidak kurang dari 135% (seratus tiga puluh lima persen) dari 
+nilai pasar wajar Efek pada Posisi Short. 
+ 
+Pasal 39 
+Jika nilai Jaminan Pembiayaan kurang dari 120% (seratus dua 
+puluh persen) dari nilai pasar wajar Efek pada Posisi Short, 
+Perusahaan Efek wajib segera membeli Efek pada Posisi Short 
+yang dibuktikan dengan melakukan penawaran beli sehingga 
+nilai Jaminan Pembiayaan tidak kurang dari 135% (seratus tiga 
+puluh lima persen) dari nilai pasar wajar Efek dalam Posisi 
+Short. 
+ 
+Pasal 40 
+(1) 
+Perusahaan Efek wajib menyampaikan konfirmasi secara 
+tertulis kepada nasabah Perusahaan Efek atas transaksi 
+pembelian sebagaimana dimaksud dalam Pasal 38 dan 
+Pasal 39.
+
+- 15 - 
+ 
+ 
+(2) 
+Konfirmasi secara tertulis sebagaimana dimaksud pada 
+ayat (1) wajib dibedakan dengan konfirmasi tertulis atas 
+transaksi berdasarkan pesanan nasabah pada hari yang 
+sama dengan pembelian Efek nasabah oleh Perusahaan 
+Efek sebagaimana dimaksud dalam Pasal 38 dan Pasal 39. 
+ 
+Pasal 41 
+Transaksi Short Selling dibatasi dengan ketentuan: 
+a. 
+harga penawaran jual yang dimasukkan dalam sistem 
+perdagangan Bursa Efek harus sama dengan atau di atas 
+harga yang terjadi terakhir di Bursa Efek; dan 
+b. 
+Perusahaan Efek wajib memberi tanda “short selling” pada 
+saat pelaksanaan order jual pada sistem perdagangan 
+Bursa Efek. 
+ 
+Bagian Keempat 
+Perjanjian Pinjam-Meminjam Efek dalam Pembiayaan 
+Transaksi Short Selling Nasabah 
+ 
+Pasal 42 
+Perusahaan Efek dapat melakukan penyelesaian pembiayaan 
+Transaksi Short Selling nasabah menggunakan: 
+a. 
+portofolio milik sendiri; atau 
+b. 
+Efek yang dipinjam dari: 
+1. 
+Lembaga Kliring dan Penjaminan; 
+2. 
+Lembaga Pendanaan Efek; 
+3. 
+Perusahaan Efek lain; 
+4. 
+bank kustodian; dan/atau 
+5. 
+Pihak lain. 
+ 
+Pasal 43 
+Kontrak standar pinjam-meminjam Efek wajib memuat rincian 
+meliputi: 
+a. 
+jumlah dan jenis Efek; 
+b. 
+waktu berlakunya pinjam-meminjam; 
+c. 
+jaminan; 
+d. 
+hak sehubungan dengan pemilikan Efek termasuk hak 
+suara, hak memesan Efek terlebih dahulu, bonus, dividen, 
+dan bunga; 
+e. 
+kewajiban perpajakan; 
+f. 
+biaya dalam rangka pinjam-meminjam; 
+g. 
+wanprestasi; 
+h. 
+metode penilaian Efek yang dipinjamkan dan jaminan; dan 
+i. 
+mekanisme penyelesaian perselisihan. 
+ 
+Pasal 44 
+(1) 
+Dalam menjalankan fungsinya, Lembaga Kliring dan 
+Penjaminan wajib membuat kontrak standar pinjam-
+meminjam Efek yang isinya sesuai dengan ketentuan 
+sebagaimana dimaksud dalam Pasal 43. 
+(2) 
+Kontrak sebagaimana dimaksud pada ayat (1) wajib telah 
+disetujui oleh Otoritas Jasa Keuangan untuk dapat 
+dipergunakan oleh semua Pihak sebagaimana dimaksud 
+dalam Pasal 42.
+
+- 16 - 
+ 
+ 
+Pasal 45 
+(1) 
+Dalam 
+hal 
+Pihak 
+sebagaimana 
+dimaksud 
+dalam  
+Pasal 42 tidak menggunakan kontrak standar pinjam-
+meminjam Efek sebagaimana dimaksud dalam Pasal 44, 
+Pihak tersebut wajib membuat kontrak pinjam-meminjam 
+Efek yang isinya sesuai dengan Peraturan Otoritas  
+Jasa Keuangan ini dengan disertai pendapat hukum dari  
+2 (dua) konsultan hukum yang terdaftar di Otoritas Jasa 
+Keuangan. 
+(2) 
+Kontrak pinjam-meminjam Efek sebagaimana dimaksud 
+pada ayat (1) wajib disampaikan kepada Otoritas Jasa 
+Keuangan untuk mendapat persetujuan sebelum berlaku. 
+ 
+BAB VIII 
+TRANSAKSI SHORT SELLING OLEH PERUSAHAAN EFEK 
+ 
+Pasal 46 
+Perusahaan Efek yang melakukan Transaksi Short Selling 
+untuk kepentingan sendiri wajib mengikuti ketentuan: 
+a. 
+sebelum melakukan Transaksi Short Selling, Perusahaan 
+Efek: 
+1. 
+telah membuka rekening terpisah untuk Transaksi 
+Short Selling; 
+2. 
+telah menyisihkan dana dan/atau Efek dalam 
+rekening sebagaimana dimaksud pada angka 1 paling 
+sedikit 50% (lima puluh persen) dari nilai Transaksi 
+Short Selling sebagai aset yang disisihkan Perusahaan 
+Efek untuk menutup risiko Transaksi Short Selling; 
+3. 
+memastikan 
+telah 
+tersedia 
+Efek 
+pada 
+saat 
+penyelesaian Transaksi Short Selling meliputi: 
+a) 
+memiliki Efek lain yang dapat dikonversi atau 
+ditukar menjadi Efek yang digunakan untuk 
+penyelesaian Transaksi Short Selling; 
+b) 
+telah melaksanakan hak atas opsi atau waran 
+untuk memperoleh Efek yang digunakan untuk 
+penyelesaian Transaksi Short Selling; dan/atau 
+c) 
+telah melakukan perjanjian pinjam-meminjam 
+Efek dalam Transaksi Short Selling dengan 
+dan/atau melalui Pihak sebagaimana dimaksud 
+dalam 
+Pasal 
+42 
+yang 
+dibuat 
+dengan 
+menggunakan kontrak sebagaimana dimaksud 
+dalam Pasal 43 sampai dengan Pasal 45; dan 
+4. 
+memiliki 
+persetujuan 
+dari 
+Bursa 
+Efek 
+untuk 
+melakukan Transaksi Short Selling; 
+b. 
+pada saat Transaksi Short Selling pertama terjadi, nilai 
+aset yang disisihkan sebagaimana dimaksud dalam huruf 
+a angka 2 ditambah dana yang diterima dari penjualan 
+Efek melalui Transaksi Short Selling paling sedikit 150% 
+(seratus lima puluh persen) dari nilai Transaksi Short 
+Selling; 
+c. 
+nilai aset yang disisihkan ditambah dana yang diterima 
+dari penjualan Efek melalui Transaksi Short Selling 
+sebagaimana 
+dimaksud 
+dalam 
+huruf 
+b 
+dipelihara 
+Perusahaan Efek paling sedikit 135% (seratus tiga puluh 
+lima persen) dari nilai pasar wajar Efek pada Posisi Short;
+
+- 17 - 
+ 
+ 
+d. 
+jika nilai aset yang disisihkan ditambah dana yang 
+diterima dari penjualan Efek melalui Transaksi Short 
+Selling sebagaimana dimaksud dalam huruf b mengalami 
+penurunan dan/atau nilai pasar wajar Efek dalam  
+Posisi Short mengalami kenaikan sehingga nilai aset yang 
+disisihkan ditambah dana yang diterima dari penjualan 
+Efek melalui Transaksi Short Selling kurang dari: 
+1. 
+135% (seratus tiga puluh lima persen) dari nilai pasar 
+wajar Efek dalam Posisi Short, Perusahaan Efek 
+menambah aset yang disisihkan dan/atau membeli 
+Efek yang ditransaksikan secara short selling paling 
+lambat 3 (tiga) Hari Bursa, sehingga nilai aset yang 
+disisihkan 
+ditambah 
+dana 
+yang 
+diterima 
+dari 
+penjualan Efek melalui Transaksi Short Selling tidak 
+kurang dari 135% (seratus tiga puluh lima persen) 
+dari nilai pasar wajar Efek dalam Posisi Short 
+sebagaimana dimaksud dalam huruf c; dan 
+2. 
+120% (seratus dua puluh persen) dari nilai pasar 
+wajar Efek dalam Posisi Short, Perusahaan Efek 
+segera menambah aset yang disisihkan dan/atau 
+membeli Efek yang ditransaksikan secara short 
+selling, sehingga nilai aset yang disisihkan ditambah 
+dana yang diterima dari penjualan Efek melalui 
+Transaksi Short Selling tidak kurang dari 135% 
+(seratus tiga puluh lima persen) dari nilai pasar wajar 
+Efek dalam Posisi Short sebagaimana dimaksud 
+dalam huruf c; 
+e. 
+Transaksi Short Selling Perusahaan Efek dibatasi dengan 
+ketentuan: 
+1. 
+harga penawaran jual yang dimasukkan dalam sistem 
+perdagangan Bursa Efek sama dengan atau di atas 
+harga yang terjadi terakhir di Bursa Efek; dan 
+2. 
+Perusahaan Efek memberi tanda “short selling” pada 
+saat pelaksanaan order jual pada sistem perdagangan 
+Bursa Efek; 
+f. 
+Perusahaan Efek dilarang melakukan Transaksi Short 
+Selling atas Efek selain yang ditetapkan Bursa Efek 
+sebagai Efek yang dapat ditransaksikan secara short 
+selling; dan 
+g. 
+apabila Efek tidak lagi memenuhi syarat yang ditetapkan 
+Bursa Efek sebagai Efek yang dapat ditransaksikan secara 
+short selling, Transaksi Short Selling Perusahaan Efek  yang 
+sudah berjalan diselesaikan paling lambat 5 (lima) Hari 
+Bursa sejak Efek tidak lagi memenuhi syarat yang 
+ditetapkan Bursa Efek. 
+ 
+Pasal 47 
+(1) 
+Perusahaan Efek yang melakukan Transaksi Short Selling 
+atas 
+Efek 
+underlying 
+sebagai 
+liquidity 
+provider 
+dikecualikan dari kewajiban dimaksud dalam Pasal 46. 
+(2) 
+Bursa Efek wajib mengatur ketentuan minimum yang 
+wajib dipenuhi oleh Perusahaan Efek sebagai liquidity 
+provider dalam melakukan Transaksi Short Selling atas 
+Efek underlying.
+
+- 18 - 
+ 
+ 
+BAB IX 
+SANKSI ADMINISTRATIF 
+ 
+Pasal 48 
+(1) 
+Setiap Pihak yang melanggar ketentuan sebagaimana 
+dimaksud dalam Pasal 2, Pasal 3, Pasal 4 ayat (1) dan (3), 
+Pasal 5, Pasal 6, Pasal 8, Pasal 9, Pasal 10, Pasal 11, Pasal 
+12, Pasal 13, Pasal 14 ayat (2) dan (3), Pasal 15, Pasal 16, 
+Pasal 17, Pasal 18, Pasal 20, Pasal 21, Pasal 22 ayat (1), 
+Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 27, Pasal 28, 
+Pasal 29, Pasal 31, Pasal 32, Pasal 34, Pasal 35, Pasal 36, 
+Pasal 37, Pasal 38, Pasal 39, Pasal 40, Pasal 41, Pasal 43, 
+Pasal 44, Pasal 45, Pasal 46, dan Pasal 47 ayat (2), dikenai 
+sanksi administratif. 
+(2) 
+Sanksi sebagaimana dimaksud pada ayat (1) dikenakan 
+juga 
+kepada 
+Pihak 
+yang 
+menyebabkan 
+terjadinya 
+pelanggaran sebagaimana dimaksud pada ayat (1). 
+(3) 
+Sanksi sebagaimana dimaksud pada ayat (1) dan ayat (2) 
+dijatuhkan oleh Otoritas jasa Keuangan. 
+(4) 
+Sanksi administratif sebagaimana dimaksud pada ayat (1) 
+berupa: 
+a. 
+peringatan tertulis; 
+b. 
+denda yaitu kewajiban untuk membayar sejumlah 
+uang tertentu; 
+c. 
+pembatasan kegiatan usaha; 
+d. 
+pembekuan kegiatan usaha; 
+e. 
+pencabutan izin usaha; 
+f. 
+pembatalan persetujuan; dan/atau 
+g. 
+pembatalan pendaftaran. 
+(5) 
+Sanksi administratif sebagaimana dimaksud pada ayat (4) 
+huruf b, huruf c, huruf d, huruf e, huruf f, atau huruf g 
+dapat dikenakan dengan atau tanpa didahului pengenaan 
+sanksi 
+administratif 
+berupa 
+peringatan 
+tertulis 
+sebagaimana dimaksud pada ayat (4) huruf a. 
+(6) 
+Sanksi 
+administratif 
+berupa 
+denda 
+sebagaimana 
+dimaksud pada ayat (4) huruf b dapat dikenakan secara 
+tersendiri atau secara bersama-sama dengan pengenaan 
+sanksi administratif sebagaimana dimaksud pada ayat (4) 
+huruf c, huruf d, huruf e, huruf f, atau huruf g. 
+(7) 
+Tata cara pengenaan sanksi sebagaimana dimaksud pada 
+ayat (3) dilakukan sesuai dengan ketentuan peraturan 
+perundang-undangan. 
+ 
+Pasal 49 
+Selain sanksi administratif sebagaimana dimaksud dalam Pasal 
+48 ayat (4), Otoritas Jasa Keuangan dapat melakukan tindakan 
+tertentu terhadap setiap Pihak yang melakukan pelanggaran 
+ketentuan Peraturan Otoritas Jasa Keuangan ini. 
+ 
+Pasal 50 
+Otoritas Jasa Keuangan dapat mengumumkan pengenaan 
+sanksi administratif sebagaimana dimaksud dalam Pasal 48 
+ayat (4) dan tindakan tertentu sebagaimana dimaksud dalam 
+Pasal 49 kepada masyarakat.
+
+- 19 - 
+ 
+ 
+BAB X 
+KETENTUAN PERALIHAN 
+ 
+Pasal 51 
+Semua Perjanjian Pembiayaan Transaksi Margin dan/atau 
+Transaksi Short Selling yang sedang berjalan dan sudah ada 
+sebelum berlakunya Peraturan Otoritas Jasa Keuangan ini 
+harus 
+menyesuaikan 
+dengan 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan ini paling lambat 1 (satu) tahun sejak Peraturan 
+Otoritas Jasa Keuangan ini mulai berlaku. 
+ 
+BAB XI 
+KETENTUAN PENUTUP 
+ 
+Pasal 52 
+(1) 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, Peraturan Otoritas Jasa Keuangan Nomor 
+55/POJK.04/2020 tentang Pembiayaan Transaksi Efek 
+oleh Perusahaan Efek bagi Nasabah dan Transaksi Short 
+Selling oleh Perusahaan Efek, dicabut dan dinyatakan 
+tidak berlaku. 
+(2) 
+Ketentuan sebagaimana dimaksud dalam Pasal 15 ayat (4) 
+mulai berlaku setelah 1 (satu) tahun terhitung sejak 
+tanggal diundangkan. 
+ 
+Pasal 53 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku 6 (enam) 
+bulan sejak tanggal diundangkan.
+
+- 20 - 
+ 
+ 
+Salinan ini sesuai dengan aslinya 
+Direktur Pengembangan Hukum 
+Departemen Hukum 
+ 
+ 
+ 
+ 
+Aat Windradi 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta      
+pada tanggal 1 April 2024     
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ 
+ 
+ 
+MAHENDRA SIREGAR 
+ 
+Diundangkan di Jakarta 
+pada tanggal 3 April 2024               
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA 
+REPUBLIK INDONESIA, 
+ 
+ 
+ 
+ 
+YASONNA H. LAOLY 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 8/OJK
+ttd 
+ttd 
+ttd
+
+- 2 - 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 6 TAHUN 2024 
+TENTANG  
+PEMBIAYAAN TRANSAKSI EFEK OLEH PERUSAHAAN EFEK BAGI NASABAH 
+DAN TRANSAKSI SHORT SELLING OLEH PERUSAHAAN EFEK 
+ 
+I. 
+UMUM 
+Transaksi Efek oleh nasabah di Bursa Efek dapat dilakukan dengan 
+dua cara, yaitu transaksi yang dilakukan menggunakan dana nasabah 
+sendiri atau yang disebut transaksi menggunakan rekening Efek reguler, 
+dan transaksi yang dibiayai sebagian oleh Perusahaan Efek atau yang 
+umum disebut sebagai pembiayaan Transaksi Margin dan pembiayaan 
+Transaksi Short Selling. 
+Transaksi nasabah di Bursa Efek yang dibiayai oleh Perusahaan Efek 
+dilakukan berdasarkan Peraturan Otoritas Jasa Keuangan (POJK) tentang 
+Pembiayaan Transaksi Efek Oleh Perusahaan Efek Bagi Nasabah dan 
+Transaksi Short Selling Oleh Perusahaan Efek. Peraturan tersebut mengatur 
+mengenai persyaratan Efek, Perusahaan Efek, dan nasabah serta 
+ketentuan standar manajemen risiko atas pembiayaan Transaksi Margin 
+dan/atau Transaksi Short Selling. POJK dimaksud juga memberikan 
+mandat kepada Bursa Efek untuk mengatur lebih komprehensif dan detail 
+mengenai Efek dan persyaratan bagi Anggota Bursa Efek yang dapat 
+memberikan layanan pembiayaan Transaksi Margin dan/atau Transaksi 
+Short Selling. 
+Transaksi Efek di Bursa Efek menggunakan pembiayaan margin 
+adalah kegiatan yang dilakukan hampir di semua Bursa Efek. Pengaturan 
+Transaksi Margin di berbagai dunia cukup beragam, ada yang diatur oleh 
+otoritas pasar modal dan Bursa Efek, ada pula yang diserahkan 
+pengaturannya kepada Bursa Efek. Terlepas dari regulator yang 
+mengaturnya sebagian besar jurisdiksi tidak membatasi Efek bersifat 
+ekuitas yang dapat ditransaksikan melalui pembiayaan Transaksi Margin 
+dan/atau Transaksi Short Selling. Pengaturan Transaksi Margin dan/atau 
+Transaksi Short Selling lebih banyak mengatur ketentuan bagi Pihak yang 
+memberikan 
+pembiayaan, 
+khususnya 
+ketentuan 
+permodalan 
+dan 
+manajemen risiko. 
+Pada praktiknya di pasar modal Indonesia, pembiayaan Transaksi 
+Margin cukup berjalan, namun ditengarai tidak menunjukkan trend 
+peningkatan yang cukup signifikan. Selain itu, dari pemantauan atas 
+aktifitas kegiatan transaksi reguler, terdapat nilai transaksi yang tidak 
+diselesaikan 
+tepat 
+pada 
+waktunya 
+sehingga 
+terdapat 
+outstanding 
+pembiayaan oleh Perusahaan Efek dengan total nilai industri jauh lebih 
+besar dari total nilai Transaksi Margin. Hal ini mengindikasikan bahwa 
+ketentuan terkait Transaksi Margin belum memenuhi kebutuhan pelaku 
+transaksi. Sedangkan pembiayaan Transaksi Short Selling sangat minim 
+dilakukan oleh Perusahaan Efek berkenaan dengan tidak terjaminnya 
+ketersediaan Efek sehingga menimbulkan ketidakpastian dan risiko yang 
+besar bagi Perusahaan Efek. 
+Berdasarkan latar belakang diatas, dalam rangka meningkatkan 
+likuiditas, dan pendalaman pasar keuangan melalui pembiayaan Transaksi 
+Margin dan/atau Transaksi Short Selling, perlu pembaharuan ketentuan
+
+- 3 - 
+ 
+ 
+terkait pembiayaan Transaksi Margin dan/atau Transaksi Short Selling 
+sehingga memenuhi kebutuhan pelaku pasar modal dan sejalan dengan 
+praktik internasional. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+ 
+Pasal 2 
+Cukup jelas 
+ 
+Pasal 3 
+Cukup jelas. 
+ 
+Pasal 4 
+Ayat (1) 
+Yang dimaksud dengan “sumber pembiayaan yang cukup” adalah 
+Perusahaan Efek mempunyai likuiditas yang dapat digunakan 
+untuk membiayai transaksi nasabah. 
+Ayat (2) 
+Huruf a 
+ 
+Cukup jelas. 
+Huruf b 
+Pendanaan dari Pihak lain antara lain: 
+1. pendanaan dari Lembaga Pendanaan Efek; 
+2. pinjaman dana dari lembaga jasa keuangan; 
+3. penerbitan Efek bersifat utang atau sukuk; dan/atau 
+4. pinjaman 
+sub-ordinasi 
+dari 
+pemegang 
+saham 
+Perusahaan Efek 
+Ayat (3) 
+Cukup jelas. 
+Pasal 5 
+Cukup jelas. 
+ 
+Pasal 6 
+Cukup jelas. 
+ 
+Pasal 7 
+Cukup jelas. 
+ 
+Pasal 8 
+Cukup jelas. 
+ 
+Pasal 9 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas.
+
+- 4 - 
+ 
+ 
+Huruf e 
+Sistem yang memadai antara lain sistem Perusahaan Efek yang 
+terintegrasi dari pemasaran dan perdagangan, manajemen risiko, 
+hingga operasional. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 10 
+Ayat (1) 
+Yang dimaksud dengan “secara berkala” adalah periode waktu 
+tertentu yang ditetapkan oleh Bursa Efek sesuai dengan risiko 
+Perusahaan 
+Efek 
+yang 
+melakukan 
+kegiatan 
+pembiayaan 
+Transaksi Margin dan/atau Transaksi Short Selling. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 11 
+Huruf a 
+Yang dimaksud dengan “rekening Efek reguler aktif” adalah 
+rekening yang mempunyai saldo Efek dan dana serta ada mutasi 
+Efek dan dana dalam jangka waktu 6 (enam) bulan berturut-
+turut. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “Jaminan Awal” adalah Jaminan Awal 
+yang telah memperhitungkan Haircut. 
+ 
+Pasal 12 
+Huruf a 
+Tingginya tingkat risiko investasi nasabah disebabkan perubahan 
+harga Efek yang berpotensi mengakibatkan: 
+1. 
+Jaminan Pembiayaan nasabah berkurang atau habis; atau 
+2. 
+Jaminan Pembiayaan nasabah menjadi lebih kecil daripada 
+kewajiban nasabah kepada Perusahaan Efek. 
+Huruf b 
+Untuk Efek bersifat ekuitas yang aktif diperdagangkan di Bursa 
+Efek nilai pasar wajarnya menggunakan harga perdagangan 
+terakhir di Bursa Efek. 
+Untuk Efek bersifat utang nilai pasar wajarnya menggunakan 
+harga acuan yang ditetapkan lembaga penilaian harga Efek. 
+Untuk Efek bersifat utang yang nilai pasar wajarnya tidak 
+dikeluarkan oleh lembaga penilaian harga efek, nilai pasar wajar 
+ditentukan berdasarkan kesepakatan kedua Pihak dalam bentuk 
+perjanjian. 
+Penetapan 
+Haircut 
+mengacu 
+pada 
+besaran 
+Haircut 
+yang 
+ditetapkan oleh peraturan Bursa Efek dan/atau komite pada 
+Lembaga Kliring dan Penjaminan. 
+Huruf c 
+Yang dimaksud dengan “permintaan Perusahaan Efek” antara 
+lain Permintaan Pemenuhan Jaminan atas Transaksi Margin 
+dan/atau Transaksi Short Selling. 
+Huruf d 
+Cukup jelas.
+
+- 5 - 
+ 
+ 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Cukup jelas. 
+Huruf i 
+Cukup jelas. 
+Huruf j 
+Cukup jelas. 
+Huruf k 
+Cukup jelas. 
+Huruf l 
+Cukup jelas. 
+Huruf m 
+Cukup jelas. 
+Huruf n 
+Cukup jelas. 
+Huruf o 
+Cukup jelas. 
+ 
+Pasal 13 
+Cukup jelas. 
+ 
+Pasal 14 
+Cukup jelas. 
+ 
+Pasal 15 
+Cukup jelas. 
+ 
+Pasal 16 
+Huruf a 
+Rasio kewajiban segera menjual Efek yang dikenal dengan istilah 
+rasio forced sell. 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Penyelesaian kelebihan pembiayaan di atas rasio 
+Permintaan Pemenuhan Jaminan antara lain berupa 
+pemindahan kelebihan pembiayaan ke akun piutang 
+lainnya. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Rasio kewajiban segera membeli Efek yang dikenal dengan istilah 
+rasio forced buy. 
+ 
+Pasal 17 
+Cukup jelas. 
+ 
+Pasal 18 
+Cukup jelas.
+
+- 6 - 
+ 
+ 
+Pasal 19 
+Cukup jelas. 
+ 
+Pasal 20 
+Cukup jelas. 
+ 
+Pasal 21 
+Yang dimaksud dengan “afiliasi” adalah: 
+a. 
+hubungan keluarga karena perkawinan sampai dengan derajat 
+kedua, baik secara horizontal maupun vertikal, yaitu hubungan 
+seseorang dengan: 
+1. 
+suami atau istri; 
+2. 
+orang tua dari suami atau istri dan suami atau istri dari 
+anak; 
+3. 
+kakek dan nenek dari suami atau istri dan suami atau istri 
+dari cucu; 
+4. 
+saudara dari suami atau istri beserta suami atau istrinya 
+dari saudara yang bersangkutan; atau 
+5. 
+suami atau istri dari saudara orang yang bersangkutan; 
+b. 
+hubungan keluarga karena keturunan sampai dengan derajat 
+kedua, baik secara horizontal maupun vertikal, yaitu hubungan 
+seseorang dengan: 
+1. 
+orang tua dan anak; 
+2. 
+kakek dan nenek serta cucu; atau 
+3. 
+saudara dari orang yang bersangkutan; 
+c. 
+hubungan antara pihak dengan karyawan, direktur, atau 
+komisaris dari pihak tersebut; 
+d. 
+hubungan antara 2 (dua) atau lebih perusahaan dimana terdapat 
+satu atau lebih anggota direksi, pengurus, dewan komisaris, atau 
+pengawas yang sama; 
+e. 
+hubungan antara perusahaan dan pihak, baik langsung maupun 
+tidak langsung, dengan cara apa pun, mengendalikan atau 
+dikendalikan oleh perusahaan atau pihak tersebut dalam 
+menentukan pengelolaan dan/atau kebijakan perusahaan atau 
+pihak dimaksud; 
+f. 
+hubungan 
+antara 
+2 
+(dua) 
+atau 
+lebih 
+perusahaan 
+yang 
+dikendalikan, baik langsung maupun tidak langsung, dengan 
+cara apa pun, dalam menentukan pengelolaan dan/atau 
+kebijakan perusahaan oleh pihak yang sama; atau 
+g. 
+hubungan antara pemsahaan dan pemegang saham utama yaitu 
+pihak yang secara langsung maupun tidak langsung memiliki 
+paling kurang 20% (dua puluh persen) saham yang mempunyai 
+hak suara dari perusahaan tersebut. 
+ 
+Pasal 22 
+Cukup jelas. 
+ 
+Pasal 23 
+Cukup jelas. 
+ 
+Pasal 24 
+Cukup jelas. 
+ 
+Pasal 25 
+Cukup jelas.
+
+- 7 - 
+ 
+ 
+Pasal 26 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Perhitungan Haircut pada Jaminan Pembiayaan berupa Efek 
+berlaku sepanjang pembiayaan belum diselesaikan (outstanding).  
+ 
+Pasal 27 
+Cukup jelas. 
+ 
+Pasal 28 
+Yang dimaksud dengan “segera menjual Efek dalam Jaminan 
+Pembiayaan” yaitu dilakukan dengan menempatkan order jual pada 
+saat perdagangan dibuka di sesi 1 (satu). 
+ 
+Pasal 29 
+Yang dimaksud dengan “segera menjual Efek dalam Jaminan 
+Pembiayaan” yaitu dilakukan dengan menempatkan order jual sejak 
+nilai pembiayaan telah mencapai 80% (delapan puluh persen). 
+ 
+Pasal 30 
+Cukup jelas. 
+ 
+Pasal 31 
+Cukup jelas. 
+ 
+Pasal 32 
+Kewajiban sebagaimana dimaksud pada ayat ini dapat dijalankan oleh 
+fungsi manajemen risiko pada Perusahaan Efek. 
+ 
+Pasal 33 
+Cukup jelas. 
+ 
+Pasal 34 
+Cukup jelas. 
+ 
+Pasal 35 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Lihat pada penjelasan Pasal 26 ayat (2). 
+ 
+Pasal 36 
+Cukup jelas. 
+ 
+Pasal 37 
+Cukup jelas. 
+ 
+Pasal 38 
+Yang dimaksud dengan “segera membeli Efek yang dalam Posisi Short” 
+yaitu dilakukan dengan menempatkan order beli pada saat 
+perdagangan dibuka di sesi 1 (satu).
+
+- 8 - 
+ 
+ 
+Pasal 39 
+Yang dimaksud dengan “segera membeli Efek pada Posisi Short” adalah 
+dilakukan dengan menempatkan order beli sejak nilai Jaminan 
+Pembiayaan kurang dari 120% (seratus dua puluh persen) dari nilai 
+pasar wajar Efek pada Posisi Short. 
+ 
+Pasal 40 
+Cukup jelas. 
+ 
+Pasal 41 
+Cukup jelas. 
+ 
+Pasal 42 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+“Pihak lain” antara lain perusahaan asuransi dan dana 
+pensiun sesuai dengan ketentuan peraturan perundang-
+undangan. 
+ 
+Pasal 43 
+Cukup jelas. 
+ 
+Pasal 44 
+Cukup jelas. 
+ 
+Pasal 45 
+Cukup jelas. 
+ 
+Pasal 46 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Yang dimaksud dengan “segera menambah aset yang 
+disisihkan dan/atau membeli Efek yang ditransaksikan 
+secara short selling” adalah dilakukan dengan menambah 
+aset atau menempatkan order beli sejak nilai aset yang 
+disisihkan ditambah dana yang diterima dari penjualan Efek 
+melalui Transaksi Short Selling kurang dari 120% (seratus
+
+- 9 - 
+ 
+ 
+dua puluh persen) dari nilai pasar wajar Efek dalam Posisi 
+Short. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+ 
+Pasal 47 
+Ayat (1) 
+Yang dimaksud dengan “liquidity provider” adalah Anggota Bursa 
+Efek yang telah mendapat persetujuan dari Bursa Efek untuk 
+dapat memperdagangkan Efek dan mempunyai kewajiban 
+melakukan penawaran jual dan permintaan beli Efek setiap hari 
+perdagangan Efek guna mendukung terciptanya likuiditas 
+perdagangan 
+Efek 
+sesuai 
+dengan 
+ketentuan 
+peraturan 
+perundang-undangan. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 48 
+Cukup jelas. 
+ 
+Pasal 49 
+“Tindakan tertentu” antara lain memerintahkan Perusahaan Efek 
+untuk 
+menyesuaikan 
+pembukuan 
+Perusahaan 
+Efek 
+terkait 
+pembiayaan margin. 
+ 
+Pasal 50 
+Cukup jelas. 
+ 
+Pasal 51 
+Cukup jelas. 
+ 
+Pasal 52 
+Cukup jelas. 
+ 
+Pasal 53 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 76/OJK

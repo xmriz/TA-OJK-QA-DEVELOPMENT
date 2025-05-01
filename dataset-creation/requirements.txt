@@ -1,0 +1,11 @@
+pandas
+pymupdf
+paddleocr
+paddlepaddle-gpu
+openai
+python-dotenv
+PyPDF2
+requests
+matplotlib
+tqdm
+

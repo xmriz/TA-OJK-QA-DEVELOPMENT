@@ -1,0 +1,5 @@
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/base-evaluation D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/datasets D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/ppo D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/rewarding D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/sft D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\

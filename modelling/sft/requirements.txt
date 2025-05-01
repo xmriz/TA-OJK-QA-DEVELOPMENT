@@ -1,0 +1,16 @@
+torch==2.4.1+cu118
+accelerate>=1.1.0
+transformers
+datasets
+evaluate
+peft
+bitsandbytes
+pandas
+numpy
+scikit-learn
+python-dotenv
+ipykernel
+trl
+sentence-transformers
+
+--extra-index-url https://download.pytorch.org/whl/cu118

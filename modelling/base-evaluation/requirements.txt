@@ -1,0 +1,22 @@
+pandas
+numpy
+tqdm
+torch==2.4.1+cu118
+accelerate>=1.1.0
+transformers
+evaluate
+datasets
+sentencepiece
+sentence-transformers
+nltk
+rouge_score
+sacremoses
+scikit-learn
+python-dotenv
+ipykernel
+peft
+bitsandbytes
+trl
+tabulate
+
+--extra-index-url https://download.pytorch.org/whl/cu118

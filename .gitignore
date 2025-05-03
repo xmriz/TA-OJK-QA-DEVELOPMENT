@@ -177,7 +177,10 @@ cython_debug/
 *.pdf
 
 # ignore all folder named "model_cache" in all subdirectories
-model_cache
+**/model_cache
 
 # ignore all folder named "checkpoints" in all subdirectories
-checkpoints
+**/checkpoints
+
+# ignore all folder sft_*
+**/sft_*/

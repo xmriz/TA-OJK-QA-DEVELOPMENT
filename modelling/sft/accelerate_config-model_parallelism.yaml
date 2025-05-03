@@ -1,0 +1,26 @@
+# Model + Pipeline + Data parallelism via DeepSpeed ZeRO-3 + TP + PP
+compute_environment: LOCAL_MACHINE
+distributed_type: DEEPSPEED
+deepspeed_config:
+  zero_optimization:
+    stage: 3                         # ZeRO-3: full optimizer/grad/param sharding
+    offload_param:
+      device: cpu
+      pin_memory: true
+    offload_optimizer:
+      device: cpu
+      pin_memory: true
+    contiguous_gradients: true
+  tensor_parallel:
+    tp_size: 2                       # split each layer's tensor operations across 2 GPUs
+  pipeline_parallel:
+    pp_size: 3                       # split layers into 3 pipeline stages
+  activation_checkpointing:
+    partition_activations: true      # checkpoint activations to save memory
+    contiguous_memory_optimization: true
+main_training_function: main
+mixed_precision: fp16
+num_machines: 1
+machine_rank: 0
+num_processes: 6                    # total procs = tp_size * pp_size * data_parallel = 2*3*1 = 6
+use_cpu: false

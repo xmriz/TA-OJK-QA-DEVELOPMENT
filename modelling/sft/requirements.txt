@@ -1,16 +1,20 @@
-torch==2.4.1+cu118
-accelerate>=1.1.0
-transformers
-datasets
-evaluate
-peft
-bitsandbytes
-pandas
-numpy
-scikit-learn
-python-dotenv
-ipykernel
-trl
-sentence-transformers
+# requirements.txt
 
+torch>=2.5.0+cu118           # upgrade to PyTorch 2.5+ for tensor‐parallel support
+accelerate>=1.1.0            # for DDP/Accelerate launch support
+transformers                 # seq2seq & model tooling
+datasets                     # Hugging Face datasets
+evaluate                     # metrics (BLEU, etc.)
+peft                         # LoRA & PEFT adapters
+bitsandbytes                 # 8-bit optimizers
+pandas                       # data handling
+numpy                        # numerical ops
+scikit-learn                 # evaluation & preprocessing
+python-dotenv                # .env support
+ipykernel                    # Jupyter kernel
+trl                          # SFTTrainer & RL wrappers
+sentence-transformers        # for embeddings
+deepspeed
+
+# ensure CUDA wheels come from PyTorch’s index
 --extra-index-url https://download.pytorch.org/whl/cu118

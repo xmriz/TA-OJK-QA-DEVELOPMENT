@@ -1,0 +1,36 @@
+# Core dependencies
+pandas                       # data handling
+numpy                        # numerical ops
+tqdm                         # progress bar
+scikit-learn                 # evaluation & preprocessing
+python-dotenv                # .env support
+ipykernel                    # Jupyter kernel
+openai                       # OpenAI
+tensorboard
+tiktoken
+protobuf
+
+# Performance
+accelerate                   # for DDP/Accelerate launch support
+bitsandbytes                 # 8-bit optimizers
+deepspeed                    # optional for memory-efficient training
+
+# Hugging Face ecosystem
+transformers                 # seq2seq & model tooling
+datasets                     # Hugging Face datasets
+evaluate                     # metrics (BLEU, etc.)
+peft                         # LoRA & PEFT adapters
+trl                          # SFTTrainer & RL wrappers
+sentencepiece                # tokenizer support
+sentence-transformers        # for embeddings
+
+# Evaluation & text processing
+nltk                         # text preprocessing
+rouge_score                  # for ROUGE metric
+sacremoses                   # for tokenisation
+tabulate                     # for table formatting
+
+# PyTorch with CUDA 11.8 (official wheels)
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+

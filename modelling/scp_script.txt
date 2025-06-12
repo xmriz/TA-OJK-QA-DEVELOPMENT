@@ -1,5 +1,12 @@
 scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/base-evaluation D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
-scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/datasets D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
-scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/ppo D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
-scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/rewarding D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
-scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/sft D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/datasets_full_training_and_test D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/datasets2070 D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/datasets4545 D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/dpo70 D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/dpo45 D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/dpo_only D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/sft20 D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/sft45 D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/sft_only D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+scp -r llmsosmed@167.205.57.184:/raid/home/llmsosmed/test-amriz/TA/download_and_deploy_model D:\Coding\git-repo\github\TA-OJK-QA-Development\modelling\
+

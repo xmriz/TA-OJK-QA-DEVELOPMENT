@@ -182,5 +182,8 @@ cython_debug/
 # ignore all folder named "checkpoints" in all subdirectories
 **/checkpoints
 
-# ignore all folder sft_*
-**/sft_*/
+# ignore all folder sft and dpo output in all subdirectories
+**/sft_output_*/
+**/dpo_output_*/
+
+**/temp/
